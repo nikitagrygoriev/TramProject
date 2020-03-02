@@ -1,0 +1,15 @@
+using UnityEngine;
+using System.Collections;
+using UnityEngine.UI; // Required when Using UI elements.
+
+public class Time_slider : MonoBehaviour
+{
+    public Slider mainSlider;
+
+    //Invoked when a submit button is clicked.
+    void Update() 
+    {
+        //Displays the value of the slider in the console.
+        Time.timeScale = mainSlider.value;
+    }
+}

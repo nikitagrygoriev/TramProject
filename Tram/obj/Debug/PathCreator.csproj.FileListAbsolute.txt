@@ -1,0 +1,2 @@
+/home/fw2ty/Downloads/asf/trampy/Tramwaiki/obj/Debug/PathCreator.csprojAssemblyReference.cache
+/home/fw2ty/Downloads/asf/trampy/Tramwaiki/obj/Debug/PathCreator.csproj.CoreCompileInputs.cache
